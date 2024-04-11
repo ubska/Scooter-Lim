@@ -1,0 +1,80 @@
+
+body{
+  background-image: url(img/background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+/* contenitore */
+.container {
+    width: 750px;
+    height: 550px;
+    margin: auto;
+    background: rgba(0, 0, 0, 0.5);
+    margin-top: 20px;
+
+
+}
+.container2{
+    width: 650px;
+    height: 550px;
+    margin: auto;
+}
+
+/* header */
+.logo-img{
+    width: 25%;
+    margin: auto;
+    margin-top: 20px;
+    
+}
+
+.logo{
+    text-align: center;
+}
+
+h1{
+    color: rgb(16, 190, 13);
+}
+
+/* nav */
+
+.nav-button{
+    text-align: center;
+    background-color: rgb(11, 190, 14);
+    padding: 1%;
+    border-radius: 5px;
+}
+
+/* main content */
+
+.main-content{
+    margin-top: 15px;
+    color: white;
+}
+
+/* row */
+
+.loader-row{
+    background-color: orange;
+    width: 200px;
+    height: 20px;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+.loader-row2{
+    background-color: rgba(4, 235, 8, 0.921);
+        width: 350px;
+        height: 20px;
+        border-radius: 5px;
+        margin-top: 5px;
+}
+
+.loader-row3{
+    background-color: rgba(163, 2, 2, 0.921);
+        width: 100px;
+        height: 20px;
+        border-radius: 5px;
+        margin-top: 5px;
+}
